@@ -10,4 +10,13 @@ b) Uses histogram equalization
 c) All these function are implemented from scratch
 
 ### 3. Decompression
-a) uses technique of upsamplimg to 
+a) uses technique of upsampling to obtain high quality image from the compressed images obtained
+b) can be applied in JEPG 
+
+### 4. Denoiser
+a) used for removing noise from the image
+b) uses weighted gaussian for implementation
+
+### 5. Shadow_removal
+a) removes shadow from images making them clear
+b) uses sharpening techniques to prevent loss of data
